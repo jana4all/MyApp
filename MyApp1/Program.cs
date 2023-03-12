@@ -58,13 +58,13 @@ foreach (var letter in letters)
 };
 
 Console.WriteLine("Liczba zadana = " + number);
-Console.WriteLine("ilość liczy 0 = " + counter0);
-Console.WriteLine("ilość liczy 1 = " + counter1);
-Console.WriteLine("ilość liczy 2 = " + counter2);
-Console.WriteLine("ilość liczy 3 = " + counter3);
-Console.WriteLine("ilość liczy 4 = " + counter4);
-Console.WriteLine("ilość liczy 5 = " + counter5);
-Console.WriteLine("ilość liczy 6 = " + counter6);
-Console.WriteLine("ilość liczy 7 = " + counter7);
-Console.WriteLine("ilość liczy 8 = " + counter8);
-Console.WriteLine("ilość liczy 9 = " + counter9);
+Console.WriteLine("ilość liczb 0 = " + counter0);
+Console.WriteLine("ilość liczb 1 = " + counter1);
+Console.WriteLine("ilość liczb 2 = " + counter2);
+Console.WriteLine("ilość liczb 3 = " + counter3);
+Console.WriteLine("ilość liczb 4 = " + counter4);
+Console.WriteLine("ilość liczb 5 = " + counter5);
+Console.WriteLine("ilość liczb 6 = " + counter6);
+Console.WriteLine("ilość liczb 7 = " + counter7);
+Console.WriteLine("ilość liczb 8 = " + counter8);
+Console.WriteLine("ilość liczb 9 = " + counter9);
